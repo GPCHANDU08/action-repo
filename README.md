@@ -86,45 +86,6 @@ Content-Type: application/json
 Events: Send me everything
 ```
 
----
-
-## 📸 Screenshots
-
-
-
-| MongoDB View            |
-| ----------------------- |
-| *(Add screenshot here)* |
-
-Insert actual images in this section once screenshots are taken.
-
----
-
-## 🎞 GIF / Animation Demo
-
-| Webhook Realtime Demo                                             |
-| ----------------------------------------------------------------- |
-| *(Insert GIF showing push / PR / merge → update appearing in UI)* |
-
-You can record using:
-
-* OBS
-* ShareX
-* ScreenToGif
-* Any screen recorder
-
----
-
-## 🧰 Tech Used
-
-* GitHub Webhooks
-* GitHub Actions (optional)
-* Local Flask Webhook Receiver
-* MongoDB for storage
-* Ngrok (tunneling)
-
----
-
 ## 🧑‍💻 Author
 
 **Goparaju Poorna Chand**
